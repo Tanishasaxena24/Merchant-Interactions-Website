@@ -21,6 +21,7 @@ router.post("/signup", async (req, res) => {
   res.json({ message: "Agent registered successfully" ,token,newAgent});
 });
 
+
 //Login
 router.post("/login", async (req, res) => {
   const { email, password } = req.body;
