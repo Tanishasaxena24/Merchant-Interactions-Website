@@ -10,10 +10,21 @@ This project adds a **"Merchant Interactions"** feature to a CRM system, enablin
 
 ## Getting Started
 
-### Installation
-
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/merchant-interactions-crm.git
-   cd merchant-interactions-crm
+   git clone https://github.com/Tanishasaxena24/Merchant-Interactions-Website.git
+
+2. **Running the Client (Frontend)**:
+
+   ```bash
+   cd client
+   npm i
+   npm run dev
+
+2. **Running the Server (Backend)**:
+
+   ```bash
+   cd server
+   npm install
+   nodemon index.js
