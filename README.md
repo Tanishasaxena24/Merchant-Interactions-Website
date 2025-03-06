@@ -1,4 +1,4 @@
-# Merchant Interactions CRM
+# Merchant Interactions 
 
 This project adds a **"Merchant Interactions"** feature to a CRM system, enabling agents to log communications with merchants, assign tasks, set reminders, and view interaction history.
 
